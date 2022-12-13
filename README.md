@@ -1,5 +1,2 @@
-# Sample-Database-Generation
-
-Here, I demonastate how I have generated a sample SQLLite Database and queried the data in and out of the database
-I used python and SQL thorugh jupyter Notebook
-
+# SQLLite3 Lottery Database Generation
+Here, I demonstrated how I have generated a SQLLite3 Database, added various dataframes and queried the data in and out of the database with python and SQL.
